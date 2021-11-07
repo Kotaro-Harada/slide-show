@@ -1,0 +1,20 @@
+.slide_show{
+  width: 600px;
+  margin: auto;
+}
+.photos{
+  padding: 0;
+}
+.photos img{
+  max-width: 600px;
+  max-height: 400px;
+}
+.slick-next{
+  right:0!important;
+}
+.slick-prev{
+  left:0!important;
+}
+.slick-arrow{
+  z-index:2!important;
+}
